@@ -54,11 +54,11 @@
   	<distributionManagement>
 		<snapshotRepository>
 			<id>ossrh</id>
-			<url>file:///C:/snapshots</url>
+			<url>file:///C:/artifactory/snapshots</url>
 		</snapshotRepository>
 		<repository>
 			<id>ossrh</id>
-			<url>file:///C:/maven2/</url>
+			<url>file:///C:/artifactory/maven2/</url>
 		</repository>
 	</distributionManagement>
 
